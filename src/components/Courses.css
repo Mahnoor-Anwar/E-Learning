@@ -1,0 +1,55 @@
+.container {
+  position: relative;
+  width: 22%;
+}
+
+.image {
+  display: block;
+  width: 300px;
+  height: 200px;
+  border-radius: 22px;
+  box-shadow: 4px 4px 4px rgb(110, 107, 107);
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #008cba;
+  overflow: hidden;
+  width: 240px;
+  height: 0;
+  transition: 0.5s ease;
+}
+
+.container:hover .overlay {
+  height: 180px;
+  width: 230px;
+}
+
+.text {
+  white-space: nowrap;
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.course {
+  display: flex;
+  padding: 3cm;
+  margin-left: 1cm;
+}
+
+.coursetwo {
+  /* display: flex;
+  padding: 1cm 1cm 1cm 7cm; */
+  display: flex;
+  padding: 3cm;
+  margin-left: 1cm;
+  padding-top: 0cm;
+}

@@ -1,0 +1,127 @@
+.buttons {
+  display: flex;
+  flex-direction: column;
+  width: 230px;
+  padding: 10px;
+  gap: 20px;
+}
+
+.web {
+  border-radius: 30px;
+  height: 50px;
+  background-color: rgb(66, 69, 88);
+  color: white;
+  width: 220px;
+}
+
+.mobile {
+  border-radius: 30px;
+  height: 63px;
+  background-color: rgb(66, 69, 88);
+  color: white;
+  width: 220px;
+}
+.aritificial {
+  border-radius: 30px;
+  height: 50px;
+  background-color: rgb(66, 69, 88);
+  color: white;
+  width: 220px;
+}
+.data {
+  border-radius: 30px;
+  height: 50px;
+  background-color: rgb(66, 69, 88);
+  color: white;
+  width: 220px;
+}
+.digital {
+  border-radius: 30px;
+  height: 50px;
+  background-color: rgb(66, 69, 88);
+  color: white;
+  width: 220px;
+}
+
+.machine {
+  border-radius: 30px;
+  height: 50px;
+  background-color: rgb(66, 69, 88);
+  color: white;
+  width: 220px;
+}
+
+.Webcont {
+  /* background-color: violet; */
+  height: 600px;
+  /* width: 300px; */
+  float: right;
+  margin-right: 40px;
+  width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 15px;
+  padding-top: 1cm;
+}
+
+.Mobcont {
+  height: 600px;
+  /* width: 300px; */
+  float: right;
+  margin-right: 40px;
+  width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 16px;
+  padding-top: 1cm;
+}
+.Datacont {
+  height: 600px;
+  /* width: 300px; */
+  float: right;
+  margin-right: 40px;
+  width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 16px;
+  padding-top: 1cm;
+}
+.Digitalcont {
+  height: 600px;
+  /* width: 300px; */
+  float: right;
+  margin-right: 40px;
+  width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 16px;
+  padding-top: 1cm;
+}
+.Machinecont {
+  height: 600px;
+  /* width: 300px; */
+  float: right;
+  margin-right: 40px;
+  width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 16px;
+  padding-top: 1cm;
+}
+.Artificialcont {
+  height: 600px;
+  /* width: 300px; */
+  float: right;
+  margin-right: 40px;
+  width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 16px;
+  padding-top: 1cm;
+}

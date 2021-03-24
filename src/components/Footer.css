@@ -1,0 +1,24 @@
+footer {
+  background-color: rgb(66, 69, 88);
+  height: 150px;
+  margin-top: 1cm;
+  color: aliceblue;
+}
+
+.phone {
+  padding: 20px;
+  text-align: start;
+  margin-left: 8cm;
+}
+.boxx {
+  display: flex;
+}
+
+.social {
+  margin-left: 9cm;
+  padding: 20px;
+}
+
+.label {
+  padding-top: 1cm;
+}
